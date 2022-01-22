@@ -10,7 +10,7 @@ class practice {
         double average = (maths + english + science + drama)/tests;
         //Print statement
         System.out.println(average);
-        System.out.println("good to go");
+        
     }
   }
 
